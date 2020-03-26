@@ -2,13 +2,13 @@
 # Assignment 8 - Stock Sales
 # 03/24/2020
 
-from stack import Stack
-from queue import Queue
+from stackqueue import Stack
+from stackqueue import Queue
 
 method = 0
 
 while method != 3:
-    print("What accounting method would you like to proceed with?")
+    print("This platform helps you keep track of your stock portfolio and report your profits. What accounting method would you like to proceed with?")
     print("1. LIFO")
     print("2. FIFO")
     print("3. Exit Program")

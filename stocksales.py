@@ -42,7 +42,7 @@ while method != 3:
                 stock_price.push(price)
                 stock_value = qty * price
                 total_value_bought += stock_value
-                print("Added to inventory. \n\n")
+                print(f"{qty} {name} stocks Added to Portfolio. \n\n")
                 total_stocks += qty
 
             elif choice == 2:

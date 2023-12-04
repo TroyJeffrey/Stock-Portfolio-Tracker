@@ -1,5 +1,5 @@
 # Troy Jeffrey Amegashie
-# Assignment 8 - Stock Sales
+# Stock Sales
 # 03/24/2020
 
 from stackqueue import Stack
